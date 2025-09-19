@@ -1,3 +1,4 @@
+store manager: keep track of inventory demo link:https://drive.google.com/file/d/1O2UCpQMUXzTSshhrmng7ZwPF3wymwifI/view?usp=drive_link
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
